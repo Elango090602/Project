@@ -1,12 +1,10 @@
 select * from layoffs;
-
+   -----GOALS-----
 -- Removes Duplicate
 -- Standardize the data
 -- Null or Blank values
 -- Remove any columns
-
-
-
+------------------------
 -- 1. Removes Duplicate
 
 -- Creating a Duplicate of the Table becoz we don't want to change the original data
